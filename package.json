@@ -13,5 +13,8 @@
     "uglify-js-brunch": ">= 1.0 < 1.8",
     "clean-css-brunch": ">= 1.0 < 1.8",
     "auto-reload-brunch": ">= 1.0 < 1.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
