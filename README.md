@@ -31,11 +31,13 @@
 #### Python SimpleHTTPServer
 
 >cd /path/to/your-project-folder
+
 >python -m SimpleHTTPServer 8080
 
 #### ngrok
 
 >cd /path/to/your-project-folder
+
 >./ngrok http 8080
 
 #### Brunch Build
